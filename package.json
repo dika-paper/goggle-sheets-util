@@ -1,0 +1,23 @@
+{
+  "name": "google-sheets-util",
+  "version": "1.0.0",
+  "description": "Google Sheets API utility functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dika-paper/google-sheets-util.git"
+  },
+  "keywords": [
+    "google",
+    "sheets"
+  ],
+  "author": "dika-paper",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dika-paper/google-sheets-util/issues"
+  },
+  "homepage": "https://github.com/dika-paper/google-sheets-util#readme"
+}
